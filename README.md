@@ -51,13 +51,14 @@ ________________________________________
 # Output (Screenshots)
 •	PDU details for local communication<br>
 <img width="1902" height="1128" alt="image" src="https://github.com/user-attachments/assets/efc9e990-cea1-4617-be9b-1f43157d9e32" />
-
-•	PDU details for remote communication<br>
 <img width="1912" height="1133" alt="image" src="https://github.com/user-attachments/assets/05ab338b-73d0-4d40-bea8-11264ab39d2d" />
 <img width="1918" height="1137" alt="image" src="https://github.com/user-attachments/assets/e8887190-3905-4732-bda8-6f26f1587475" />
 
-•	Tables showing MAC/IP changes through each device<br>
+•	PDU details for remote communication<br>
 <img width="1917" height="1132" alt="image" src="https://github.com/user-attachments/assets/d3d8957a-b1f4-49ad-b08c-98bb7f8e7073" />
+
+•	Tables showing MAC/IP changes through each device<br>
+<img width="1600" height="953" alt="image" src="https://github.com/user-attachments/assets/ba2ef4df-1d0c-4580-a8d8-9b50807f55ef" />
 
 ________________________________________
 # Result
